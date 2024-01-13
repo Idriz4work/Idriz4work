@@ -1,9 +1,21 @@
-###
+<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>CS50 from the Harvard University</b>
+  - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
+- <b>Full Stack Web Projects (React and NodeJS)</b>
+  - [Projects with React, Nodejs framework](https://github.com/Idriz4work/React-projects) <b><i>(Potentially NSFW)</b></i>
+- <b>CS50W from the Harvard University</b>
+  - [Fundamentals of Web Development with JavaScipt and Python](https://github.com/Idriz4work/CS50W)
+  - 
+<h2>📺 My YouTube channel</h2>
+
+- [Hustlers Code](https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ)
+
+<h2> 🤳 Connect with me:</h2>
 
 <div align="center">
-  <a href="https://paypal.me/Idrizwebdev?country.x=DE&locale.x=de_DE" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
   <a href="https://linktr.ee/Idriz_Atilla?utm_source=linktree_admin_share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
@@ -14,6 +26,9 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
+
+###
+
 
 ###
 
