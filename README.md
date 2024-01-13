@@ -1,4 +1,4 @@
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 <div align="center">
@@ -80,7 +80,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Idriz4work&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
