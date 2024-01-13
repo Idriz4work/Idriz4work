@@ -5,7 +5,7 @@
   <a href="https://linktr.ee/Idriz_Atilla?utm_source=linktree_admin_share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-  <a href="atilla.arbeit1@gmail.com" target="_blank">
+  <a href="mailto:atilla.arbeit1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ" target="_blank">
