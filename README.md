@@ -5,17 +5,17 @@
 - <b>CS50 from the Harvard University</b>
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
 - <b>Full Stack Web Projects (React and NodeJS)</b>
-  - [Projects with React, Nodejs framework](https://github.com/Idriz4work/React-projects) <b><i>(Potentially NSFW)</b></i>
+  - [Projects with React, Nodejs framework](https://github.com/Idriz4work/React-projects)
 - <b>CS50W from the Harvard University</b>
   - [Fundamentals of Web Development with JavaScipt and Python](https://github.com/Idriz4work/CS50W)
-  - 
+    
 <h2>📺 My YouTube channel</h2>
 
 - [Hustlers Code](https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ)
 
 <h2> 🤳 Connect with me:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://linktr.ee/Idriz_Atilla?utm_source=linktree_admin_share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
