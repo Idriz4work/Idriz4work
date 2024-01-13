@@ -4,10 +4,10 @@
 
 - <b>CS50 from the Harvard University</b>
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
-- <b>Full Stack Web Projects (React and NodeJS)</b>
-  - [Projects with React, Nodejs framework](https://github.com/Idriz4work/React-projects)
 - <b>CS50W from the Harvard University</b>
   - [Fundamentals of Web Development with JavaScipt and Python](https://github.com/Idriz4work/CS50W)
+- <b>Full Stack Web Projects (React and NodeJS)</b>
+  - [Projects with React, Nodejs framework](https://github.com/Idriz4work/React-projects)
     
 <h2>📺 My YouTube channel</h2>
 
