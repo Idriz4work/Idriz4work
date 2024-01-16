@@ -1,5 +1,7 @@
 <h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber</a></h1>
 
+<h2>Looking for work and internship</h2>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>CS50 from the Harvard University</b>
