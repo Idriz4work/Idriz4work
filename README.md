@@ -2,7 +2,7 @@
 
 <h2>Looking for work and internship</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - <b>CS50 from the Harvard University</b>
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
