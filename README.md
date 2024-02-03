@@ -2,7 +2,7 @@
 
 ###
 
-<h6>Looking for a Front-end job and internship</h6>
+<h6>Looking for internship</h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
