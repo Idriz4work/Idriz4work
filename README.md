@@ -2,7 +2,7 @@
 
 ###
 
-<h6>Looking for a internship</h6>
+<h6>Looking for job</h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
