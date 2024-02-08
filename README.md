@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Atilla Idriz Freelancer<br><br>- 🔭 I’m working as a Fullstack web Developer<br>- 📚 I'm currently learning Nodejs<br>- ⚡ In my free time I workout and read books</p>
+<p align="left">I'm Atilla Idriz Freelancer<br><br>- 🔭 I’m working as a Fullstack web Developer<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡ In my free time I workout and read books</p>
 
 ###
 
