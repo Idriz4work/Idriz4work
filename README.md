@@ -2,7 +2,7 @@
 
 ###
 
-<h6>Looking for a remote job / Internship</h6>
+<h6>Looking for a remote job or Internship</h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -84,6 +84,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  
 </div>
-
-
