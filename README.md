@@ -100,5 +100,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Idriz4work&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work)
 
