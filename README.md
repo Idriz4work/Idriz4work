@@ -2,7 +2,7 @@
 
 ###
 
-<h6>Looking for a remote job or Internship</h6>
+<h6>Looking for a remote job </h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
