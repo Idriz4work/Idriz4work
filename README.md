@@ -1,8 +1,8 @@
-<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber</a></h1>
+<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber, Freelancer</a></h1>
 
 ###
 
-<h6>Looking for a remote job </h6>
+<h6> Open for work </h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
