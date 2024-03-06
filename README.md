@@ -1,4 +1,4 @@
-<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber, Freelancer</a></h1>
+<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber</a>, Freelancer</h1>
 
 ###
 
