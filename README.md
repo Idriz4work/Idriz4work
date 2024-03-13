@@ -2,7 +2,7 @@
 
 ###
 
-<h6> Open for work / Internship </h6>
+<h6> Looking for work / Internship </h6>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
