@@ -10,8 +10,6 @@
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
 - <b>CS50W from the Harvard University</b>
   - [Fundamentals of Web Development with JavaScipt and Python](https://github.com/Idriz4work/CS50W)
-- <b>Frontend Mentor</b>
-  - [Projects for Frontend development with Frontend Mentor](https://github.com/Idriz4work/Frontend-mentor)
     
 <h2>📺 My YouTube channel</h2>
   <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ" target="_blank">
