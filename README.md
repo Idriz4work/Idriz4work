@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm Atilla Idriz <br><br>- 🔭 I’m working as a Frond-end Developer, Cybersecurity and as a DevOps engineeur<br>- 📚 I'm currently learning JavaScript and React<br>- ⚡ In my free time I workout and read books</p>
+<p align="left">I'm Atilla Idriz <br><br>- 🔭 I’m have experience in Frond-end Development <br>- 📚 I'm currently learning JavaScript and React<br>- ⚡ In my free time I workout and read books</p>
 
 ###
 
