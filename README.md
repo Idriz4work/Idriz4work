@@ -1,10 +1,9 @@
-<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>, <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ">YouTuber</a></h1>
-
+<h1>Hi, I'm Atilla! <br/><a href="https://github.com/Idriz4work">Web Developer</a>
 ###
 
 <h6> Open for work </h6>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Projects:</h2>
 
 - <b>CS50 from the Harvard University</b>
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
@@ -37,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Atilla Idriz <br><br>- 🔭 I’m have experience in Frond-end Development <br>- 📚 I'm currently learning JavaScript and React<br>- ⚡ In my free time I workout and read books</p>
+<p align="left">I'm Atilla Idriz <br><br>- 🔭 I’m have experience in Frond-end Development <br>- 📚 I'm currently learning python and AI development<br>- ⚡ In my free time I workout and read books</p>
 
 ###
 
