@@ -65,14 +65,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
+###
 
+<h3 align="left">Stats </h3>
+
+###
+![Idriz4work's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work&theme=default&show_icons=true&hide_border=true&layout=compact)
 ###
 
 <h3 align="left">🛠 Frameworks</h3>
 
 ###
 
-![Idriz4work's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
