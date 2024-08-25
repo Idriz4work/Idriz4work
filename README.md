@@ -72,6 +72,8 @@
 
 ###
 
+![Idriz4work's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
