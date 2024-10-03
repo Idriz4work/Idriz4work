@@ -9,6 +9,8 @@
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
 - <b>CS50W from the Harvard University</b>
   - [Fundamentals of Web Development with JavaScipt and Python](https://github.com/Idriz4work/CS50W)
+- <b>Nand2Tetris</b>
+  - [Learn computer architecture and low-level programming](https://github.com/Idriz4work/Nand2Tetris)
     
 <h2>📺 My YouTube channel</h2>
   <a href="https://www.youtube.com/channel/UCPEpKshnVZuBFNvfqBrbeoQ" target="_blank">
