@@ -5,6 +5,8 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
+- <b>42 School</b>
+  - [Master programming through real-world projects and collaboration](https://github.com/Idriz4work/42)
 - <b>CS50 from the Harvard University</b>
   - [Fundamentals of programming and computer Science](https://github.com/Idriz4work/CS50)
 - <b>CS50W from the Harvard University</b>
