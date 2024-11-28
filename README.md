@@ -1,4 +1,4 @@
-<h1>Hi, I'm Atilla! <br/> Python Developer, <a href="https://github.com/Idriz4work/42">42 student</a>, <a href="https://github.com/Idriz4work/CS50W">Web Developer</a>
+<h1>Hi, I'm Atilla! <br/> <a href="https://github.com/Idriz4work/42">42 student</a>, <a href="https://github.com/Idriz4work/CS50W">Web Developer</a>
 
 
 <h6> Open for work </h6>
