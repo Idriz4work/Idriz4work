@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Atilla Idriz <br><br>-I'm a student at 42 wolfsburg <br><br>- 🔭 I have experience in Frond-end Development <br>- 📚 I'm currently learning python and AI development<br>- ⚡ In my free time I workout and read books</p>
+<p align="left">I'm Atilla Idriz <br><br>-I'm a student at 42 wolfsburg <br><br>- 🔭 I have experience in Web Development <br>- 📚 I'm currently learning C <br>- ⚡ In my free time I workout and read books</p>
 
 ###
 
