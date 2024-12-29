@@ -86,9 +86,4 @@
 ![Idriz4work's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idriz4work&theme=default&show_icons=true&hide_border=true&layout=compact)
 ###
 
-<h3 align="left">🛠 Frameworks</h3>
-
-###
-
-
 
