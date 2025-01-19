@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Atilla Idris <br><br>-I'm a student at 42 wolfsburg <br><br>- 🔭 I have experience in Web Development,system administration  <br>- 📚 I'm currently learning C <br>- ⚡ In my free time I workout and read books</p>
+<p align="left">I'm Atilla Idris <br><br> I'm a student at 42 wolfsburg <br><br>- 🔭 I have experience in Web Development,system administration  <br>- 📚 I'm currently learning C <br>- ⚡ In my free time I workout and read books</p>
 
 ###
 
